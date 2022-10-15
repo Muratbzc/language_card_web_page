@@ -11,6 +11,7 @@ body {
 
 .lang-card {
   box-shadow: 3px 3px 15px 5px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
 }
 
 .lang-card:hover .lang-logo {
