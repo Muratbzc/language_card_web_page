@@ -1,7 +1,6 @@
 import Header from "./component/Header";
 import Main from "./component/Main";
 import Container from "react-bootstrap/Container";
-import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   return (
